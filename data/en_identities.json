@@ -1,0 +1,7797 @@
+[
+  {
+    "id": 1,
+    "slug": "lcb-sinner-yi-sang",
+    "name": "LCB Sinner Yi Sang",
+    "name_ko": "LCB 수감자 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "sloth"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 72,
+    "min_speed": 4,
+    "max_speed": 8,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-yi-sang.webp"
+  },
+  {
+    "id": 2,
+    "slug": "seven-assoc-south-section-6-yi-sang",
+    "name": "Seven Assoc. South Section 6 Yi Sang",
+    "name_ko": "남부 세븐 협회 6과 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Seven Association"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 82,
+    "min_speed": 5,
+    "max_speed": 8,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/seven-assoc-south-section-6-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/seven-assoc-south-section-6-yi-sang.webp"
+  },
+  {
+    "id": 3,
+    "slug": "molar-office-fixer-yi-sang",
+    "name": "Molar Office Fixer Yi Sang",
+    "name_ko": "어금니 사무소 해결사 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-09-14",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Molar Office"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 73,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/molar-office-fixer-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/molar-office-fixer-yi-sang.webp"
+  },
+  {
+    "id": 4,
+    "slug": "the-pequod-first-mate-yi-sang",
+    "name": "The Pequod First Mate Yi Sang",
+    "name_ko": "피쿼드호 일등 항해사 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 2,
+    "season": 3,
+    "release_date": "2023-12-07",
+    "faction": "The Pequod",
+    "factions": [
+      "The Pequod"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-pequod-first-mate-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-pequod-first-mate-yi-sang.webp"
+  },
+  {
+    "id": 5,
+    "slug": "dieci-assoc-south-section-4-yi-sang",
+    "name": "Dieci Assoc. South Section 4 Yi Sang",
+    "name_ko": "남부 디에치 협회 4과 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 2,
+    "season": 3,
+    "release_date": "2024-01-25",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Dieci Association"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "sloth"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/dieci-assoc-south-section-4-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/dieci-assoc-south-section-4-yi-sang.webp"
+  },
+  {
+    "id": 6,
+    "slug": "lce-ego-lantern-yi-sang",
+    "name": "LCE E.G.O::Lantern Yi Sang",
+    "name_ko": "LCE E.G.O::초롱 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 2,
+    "season": 5,
+    "release_date": "2025-01-23",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCE",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 73,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lce-ego-lantern-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lce-ego-lantern-yi-sang.webp"
+  },
+  {
+    "id": 7,
+    "slug": "blade-lineage-salsu-yi-sang",
+    "name": "Blade Lineage Salsu Yi Sang",
+    "name_ko": "검계 살수 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Blade Lineage"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/blade-lineage-salsu-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/blade-lineage-salsu-yi-sang.webp"
+  },
+  {
+    "id": 8,
+    "slug": "effloresced-ego-spicebush-yi-sang",
+    "name": "Effloresced E.G.O::Spicebush Yi Sang",
+    "name_ko": "개화 E.G.O::동백 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-06-15",
+    "faction": "Technology Liberation Alliance",
+    "factions": [
+      "Technology Liberation Alliance"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "sinking",
+      "tremor"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/effloresced-ego-spicebush-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/effloresced-ego-spicebush-yi-sang.webp"
+  },
+  {
+    "id": 9,
+    "slug": "w-corp-l3-cleanup-agent-yi-sang",
+    "name": "W Corp. L3 Cleanup Agent Yi Sang",
+    "name_ko": "W사 3등급 정리 요원 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-11-09",
+    "faction": "W Corp.",
+    "factions": [
+      "W Corp."
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "charge",
+      "haste",
+      "rupture"
+    ],
+    "hp_base": 79,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/w-corp-l3-cleanup-agent-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/w-corp-l3-cleanup-agent-yi-sang.webp"
+  },
+  {
+    "id": 10,
+    "slug": "the-ring-pointillist-student-yi-sang",
+    "name": "The Ring Pointillist Student Yi Sang",
+    "name_ko": "약지 점묘파 스튜던트 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-05-16",
+    "faction": "School of Pointillism",
+    "factions": [
+      "School of Pointillism",
+      "The Ring",
+      "The Fingers",
+      "Student"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "sloth"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-ring-pointillist-student-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-ring-pointillist-student-yi-sang.webp"
+  },
+  {
+    "id": 11,
+    "slug": "lobotomy-ego-solemn-lament-yi-sang",
+    "name": "Lobotomy E.G.O::Solemn Lament Yi Sang",
+    "name_ko": "로보토미 E.G.O::엄숙한 애도 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-09-05",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "haste",
+      "sinking"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-solemn-lament-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-solemn-lament-yi-sang.webp"
+  },
+  {
+    "id": 12,
+    "slug": "liu-assoc-south-section-3-yi-sang",
+    "name": "Liu Assoc. South Section 3 Yi Sang",
+    "name_ko": "남부 리우 협회 3과 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-02-20",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Liu Association"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 66,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/liu-assoc-south-section-3-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/liu-assoc-south-section-3-yi-sang.webp"
+  },
+  {
+    "id": 13,
+    "slug": "n-corp-ego-fell-bullet-yi-sang",
+    "name": "N Corp. E.G.O::Fell Bullet Yi Sang",
+    "name_ko": "N사 E.G.O::흉탄 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-07-03",
+    "faction": "N Corp.",
+    "factions": [
+      "N Corp.",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 66,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/n-corp-ego-fell-bullet-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/n-corp-ego-fell-bullet-yi-sang.webp"
+  },
+  {
+    "id": 14,
+    "slug": "heishou-pack-wu-branch-adept-yi-sang",
+    "name": "Heishou Pack - Wu Branch Adept Yi Sang",
+    "name_ko": "흑수 - 오 필두 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-08-28",
+    "faction": "H Corp.",
+    "factions": [
+      "H Corp.",
+      "Heishou Pack",
+      "Heishou Pack - Wu Branch",
+      "Heishou Pack Adept",
+      "Jia Family"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "rupture",
+      "tremor"
+    ],
+    "hp_base": 66,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-wu-branch-adept-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-wu-branch-adept-yi-sang.webp"
+  },
+  {
+    "id": 15,
+    "slug": "the-house-of-spiders-the-index-nursefather-yi-sang",
+    "name": "The House of Spiders: The Index Nursefather Yi Sang",
+    "name_ko": "거미집 검지 아비 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-02-19",
+    "faction": "The Fingers",
+    "factions": [
+      "The Fingers",
+      "The House of Spiders",
+      "The Index",
+      "The Oracle's Proxy"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "burn",
+      "poise",
+      "sinking"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-house-of-spiders-the-index-nursefather-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-house-of-spiders-the-index-nursefather-yi-sang.webp"
+  },
+  {
+    "id": 16,
+    "slug": "lcb-sinner-faust",
+    "name": "LCB Sinner Faust",
+    "name_ko": "LCB 수감자 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "offense_down"
+    ],
+    "hp_base": 84,
+    "min_speed": 2,
+    "max_speed": 4,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-faust.webp"
+  },
+  {
+    "id": 17,
+    "slug": "w-corp-l2-cleanup-agent-faust",
+    "name": "W Corp. L2 Cleanup Agent Faust",
+    "name_ko": "W사 2등급 정리 요원 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "W Corp.",
+    "factions": [
+      "W Corp."
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "wrath"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "charge"
+    ],
+    "hp_base": 88,
+    "min_speed": 2,
+    "max_speed": 4,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/w-corp-l2-cleanup-agent-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/w-corp-l2-cleanup-agent-faust.webp"
+  },
+  {
+    "id": 18,
+    "slug": "lobotomy-corp-remnant-faust",
+    "name": "Lobotomy Corp. Remnant Faust",
+    "name_ko": "살아남은 로보토미 직원 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Lobotomy Corp. Branch",
+    "factions": [
+      "Lobotomy Corp. Branch",
+      "Fixer"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "haste",
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-corp-remnant-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-corp-remnant-faust.webp"
+  },
+  {
+    "id": 19,
+    "slug": "zwei-assoc-south-section-4-faust",
+    "name": "Zwei Assoc. South Section 4 Faust",
+    "name_ko": "남부 츠바이 협회 4과 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-08-10",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Zwei Association"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust"
+    ],
+    "primary_sin": "envy",
+    "keywords": [],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/zwei-assoc-south-section-4-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/zwei-assoc-south-section-4-faust.webp"
+  },
+  {
+    "id": 20,
+    "slug": "wuthering-heights-butler-faust",
+    "name": "Wuthering Heights Butler Faust",
+    "name_ko": "워더링하이츠 버틀러 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 2,
+    "season": 4,
+    "release_date": "2024-04-04",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Wuthering Heights"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/wuthering-heights-butler-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/wuthering-heights-butler-faust.webp"
+  },
+  {
+    "id": 21,
+    "slug": "the-one-who-grips-faust",
+    "name": "The One Who Grips Faust",
+    "name_ko": "쥐는 자 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-03-23",
+    "faction": "N Corp. Fanatic",
+    "factions": [
+      "N Corp. Fanatic",
+      "N Corp."
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 66,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-one-who-grips-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-one-who-grips-faust.webp"
+  },
+  {
+    "id": 22,
+    "slug": "seven-assoc-south-section-4-faust",
+    "name": "Seven Assoc. South Section 4 Faust",
+    "name_ko": "남부 세븐 협회 4과 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-09-07",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Seven Association"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "gluttony",
+      "lust"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 76,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/seven-assoc-south-section-4-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/seven-assoc-south-section-4-faust.webp"
+  },
+  {
+    "id": 23,
+    "slug": "lobotomy-ego-regret-faust",
+    "name": "Lobotomy E.G.O::Regret Faust",
+    "name_ko": "로보토미 E.G.O::후회 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-10-26",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 82,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-regret-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-regret-faust.webp"
+  },
+  {
+    "id": 24,
+    "slug": "blade-lineage-salsu-faust",
+    "name": "Blade Lineage Salsu Faust",
+    "name_ko": "검계 살수 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2024-02-22",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Blade Lineage"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/blade-lineage-salsu-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/blade-lineage-salsu-faust.webp"
+  },
+  {
+    "id": 25,
+    "slug": "multicrack-office-rep-faust",
+    "name": "MultiCrack Office Rep Faust",
+    "name_ko": "멀티크랙 사무소 대표 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-08-08",
+    "faction": "Mechanical Amalgam",
+    "factions": [
+      "Mechanical Amalgam",
+      "Fixer",
+      "MultiCrack Office"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "charge"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/multicrack-office-rep-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/multicrack-office-rep-faust.webp"
+  },
+  {
+    "id": 26,
+    "slug": "lce-ego-ardor-blossom-star-faust",
+    "name": "LCE E.G.O::Ardor Blossom Star Faust",
+    "name_ko": "LCE E.G.O::홍염살 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-01-23",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCE",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "pride",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lce-ego-ardor-blossom-star-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lce-ego-ardor-blossom-star-faust.webp"
+  },
+  {
+    "id": 27,
+    "slug": "heishou-pack-mao-branch-adept-faust",
+    "name": "Heishou Pack - Mao Branch Adept Faust",
+    "name_ko": "흑수 - 묘 필두 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-05-22",
+    "faction": "Heishou Pack",
+    "factions": [
+      "Heishou Pack",
+      "Heishou Pack - Mao Branch",
+      "Heishou Pack Adept",
+      "H Corp."
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 76,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-mao-branch-adept-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-mao-branch-adept-faust.webp"
+  },
+  {
+    "id": 28,
+    "slug": "shi-assoc-east-section-3-faust",
+    "name": "Shi Assoc. East Section 3 Faust",
+    "name_ko": "동부 시 협회 3과 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-10-09",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Shi Association"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 60,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/shi-assoc-east-section-3-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/shi-assoc-east-section-3-faust.webp"
+  },
+  {
+    "id": 29,
+    "slug": "the-index-proselyte-paper-slip-faust",
+    "name": "The Index Proselyte:【Paper Slip】 Faust",
+    "name_ko": "검지 수행자:【쪽지】파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2025-12-31",
+    "faction": "The Fingers",
+    "factions": [
+      "The Fingers",
+      "The Index"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "poise",
+      "sinking"
+    ],
+    "hp_base": 57,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-index-proselyte-paper-slip-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-index-proselyte-paper-slip-faust.webp"
+  },
+  {
+    "id": 30,
+    "slug": "lcb-sinner-don-quixote",
+    "name": "LCB Sinner Don Quixote",
+    "name_ko": "LCB 수감자 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "lust"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-don-quixote.webp"
+  },
+  {
+    "id": 31,
+    "slug": "shi-assoc-south-section-5-director-don-quixote",
+    "name": "Shi Assoc. South Section 5 Director Don Quixote",
+    "name_ko": "남부 시 협회 5과 부장 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Shi Association"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/shi-assoc-south-section-5-director-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/shi-assoc-south-section-5-director-don-quixote.webp"
+  },
+  {
+    "id": 32,
+    "slug": "n-corp-mittelhammer-don-quixote",
+    "name": "N Corp. Mittelhammer Don Quixote",
+    "name_ko": "N사 중간 망치 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-05-03",
+    "faction": "N Corp. Fanatic",
+    "factions": [
+      "N Corp. Fanatic",
+      "N Corp."
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed",
+      "tremor"
+    ],
+    "hp_base": 82,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/n-corp-mittelhammer-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/n-corp-mittelhammer-don-quixote.webp"
+  },
+  {
+    "id": 33,
+    "slug": "lobotomy-ego-lantern-don-quixote",
+    "name": "Lobotomy E.G.O::Lantern Don Quixote",
+    "name_ko": "로보토미 E.G.O::초롱 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2024-01-11",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "lust"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-lantern-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-lantern-don-quixote.webp"
+  },
+  {
+    "id": 34,
+    "slug": "blade-lineage-salsu-don-quixote",
+    "name": "Blade Lineage Salsu Don Quixote",
+    "name_ko": "검계 살수 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 2,
+    "season": 3,
+    "release_date": "2024-02-22",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Blade Lineage"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 73,
+    "min_speed": 4,
+    "max_speed": 8,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/blade-lineage-salsu-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/blade-lineage-salsu-don-quixote.webp"
+  },
+  {
+    "id": 35,
+    "slug": "w-corp-l3-cleanup-agent-don-quixote",
+    "name": "W Corp. L3 Cleanup Agent Don Quixote",
+    "name_ko": "W사 3등급 정리 요원 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "W Corp.",
+    "factions": [
+      "W Corp."
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "charge",
+      "rupture"
+    ],
+    "hp_base": 73,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/w-corp-l3-cleanup-agent-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/w-corp-l3-cleanup-agent-don-quixote.webp"
+  },
+  {
+    "id": 36,
+    "slug": "cinq-assoc-south-section-5-director-don-quixote",
+    "name": "Cinq Assoc. South Section 5 Director Don Quixote",
+    "name_ko": "남부 섕크 협회 5과 부장 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-07-20",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Cinq Association"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "lust",
+    "keywords": [],
+    "hp_base": 72,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/cinq-assoc-south-section-5-director-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/cinq-assoc-south-section-5-director-don-quixote.webp"
+  },
+  {
+    "id": 37,
+    "slug": "the-middle-little-sister-don-quixote",
+    "name": "The Middle Little Sister Don Quixote",
+    "name_ko": "중지 작은 아우 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2023-11-23",
+    "faction": "The Middle",
+    "factions": [
+      "The Middle",
+      "The Fingers"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 86,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-middle-little-sister-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-middle-little-sister-don-quixote.webp"
+  },
+  {
+    "id": 38,
+    "slug": "t-corp-class-3-collection-staff-don-quixote",
+    "name": "T Corp. Class 3 Collection Staff Don Quixote",
+    "name_ko": "T사 3등급 징수직 직원 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-06-27",
+    "faction": "T Corp.",
+    "factions": [
+      "T Corp."
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 95,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/t-corp-class-3-collection-staff-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/t-corp-class-3-collection-staff-don-quixote.webp"
+  },
+  {
+    "id": 39,
+    "slug": "the-manager-of-la-manchaland-don-quixote",
+    "name": "The Manager of La Manchaland Don Quixote",
+    "name_ko": "라만차랜드 실장 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2024-12-12",
+    "faction": "La Manchaland",
+    "factions": [
+      "La Manchaland",
+      "Bloodfiend",
+      "Second Kindred"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "lust",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 63,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-manager-of-la-manchaland-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-manager-of-la-manchaland-don-quixote.webp"
+  },
+  {
+    "id": 40,
+    "slug": "cinq-assoc-east-section-3-don-quixote",
+    "name": "Cinq Assoc. East Section 3 Don Quixote",
+    "name_ko": "동부 섕크 협회 3과 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-03-06",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Cinq Association"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "burn",
+      "haste",
+      "poise"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/cinq-assoc-east-section-3-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/cinq-assoc-east-section-3-don-quixote.webp"
+  },
+  {
+    "id": 41,
+    "slug": "lobotomy-ego-in-the-name-of-love-and-hate-don-quixote",
+    "name": "Lobotomy E.G.O::In the Name of Love and Hate Don Quixote",
+    "name_ko": "로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-07-17",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "charge",
+      "rupture",
+      "sinking"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-in-the-name-of-love-and-hate-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-in-the-name-of-love-and-hate-don-quixote.webp"
+  },
+  {
+    "id": 42,
+    "slug": "heishou-pack-wei-branch-don-quixote",
+    "name": "Heishou Pack - Wei Branch Don Quixote",
+    "name_ko": "흑수 - 미 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-11-20",
+    "faction": "Heishou Pack - Wei Branch",
+    "factions": [
+      "Heishou Pack - Wei Branch",
+      "H Corp.",
+      "Heishou Pack"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "lust"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "rupture",
+      "sinking"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-wei-branch-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-wei-branch-don-quixote.webp"
+  },
+  {
+    "id": 43,
+    "slug": "the-index-proxy-effloresced-ego-procuration-don-quixote",
+    "name": "The Index Proxy - Effloresced E.G.O::Procuration Don Quixote",
+    "name_ko": "검지 대행자 - 개화 E.G.O::대행 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-01-08",
+    "faction": "The Index",
+    "factions": [
+      "The Index",
+      "The House of Spiders",
+      "The Fingers"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "poise",
+      "sinking"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-index-proxy-effloresced-ego-procuration-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-index-proxy-effloresced-ego-procuration-don-quixote.webp"
+  },
+  {
+    "id": 44,
+    "slug": "lcb-sinner-ryoshu",
+    "name": "LCB Sinner Ryōshū",
+    "name_ko": "LCB 수감자 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-ryoshu.webp"
+  },
+  {
+    "id": 45,
+    "slug": "seven-assoc-south-section-6-ryoshu",
+    "name": "Seven Assoc. South Section 6 Ryōshū",
+    "name_ko": "남부 세븐 협회 6과 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Seven Association"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 63,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/seven-assoc-south-section-6-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/seven-assoc-south-section-6-ryoshu.webp"
+  },
+  {
+    "id": 46,
+    "slug": "lccb-assistant-manager-ryoshu",
+    "name": "LCCB Assistant Manager Ryōshū",
+    "name_ko": "LCCB 대리 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 2,
+    "season": 3,
+    "release_date": "2023-11-16",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCC"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "poise",
+      "rupture",
+      "tremor"
+    ],
+    "hp_base": 76,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lccb-assistant-manager-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lccb-assistant-manager-ryoshu.webp"
+  },
+  {
+    "id": 47,
+    "slug": "liu-assoc-south-section-4-ryoshu",
+    "name": "Liu Assoc. South Section 4 Ryōshū",
+    "name_ko": "남부 리우 협회 4과 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 2,
+    "season": 3,
+    "release_date": "2024-03-07",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Liu Association"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/liu-assoc-south-section-4-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/liu-assoc-south-section-4-ryoshu.webp"
+  },
+  {
+    "id": 48,
+    "slug": "district-20-yurodivy-ryoshu",
+    "name": "District 20 Yurodivy Ryōshū",
+    "name_ko": "20구 유로지비 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 2,
+    "season": 4,
+    "release_date": "2024-06-13",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Yurodiviye"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "sloth"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 71,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/district-20-yurodivy-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/district-20-yurodivy-ryoshu.webp"
+  },
+  {
+    "id": 49,
+    "slug": "kurokumo-clan-wakashu-ryoshu",
+    "name": "Kurokumo Clan Wakashu Ryōshū",
+    "name_ko": "흑운회 와카슈 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Kurokumo Clan"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 73,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/kurokumo-clan-wakashu-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/kurokumo-clan-wakashu-ryoshu.webp"
+  },
+  {
+    "id": 50,
+    "slug": "rb-chef-de-cuisine-ryoshu",
+    "name": "R.B. Chef de Cuisine Ryōshū",
+    "name_ko": "료.고.파. 주방장 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-04-20",
+    "faction": "The Backstreets",
+    "factions": [
+      "The Backstreets",
+      "Syndicate",
+      "R.B."
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/rb-chef-de-cuisine-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/rb-chef-de-cuisine-ryoshu.webp"
+  },
+  {
+    "id": 51,
+    "slug": "w-corp-l3-cleanup-agent-ryoshu",
+    "name": "W Corp. L3 Cleanup Agent Ryōshū",
+    "name_ko": "W사 3등급 정리 요원 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-08-24",
+    "faction": "W Corp.",
+    "factions": [
+      "W Corp."
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "charge"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/w-corp-l3-cleanup-agent-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/w-corp-l3-cleanup-agent-ryoshu.webp"
+  },
+  {
+    "id": 52,
+    "slug": "edgar-family-chief-butler-ryoshu",
+    "name": "Edgar Family Chief Butler Ryōshū",
+    "name_ko": "에드가 가문 치프 버틀러 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-04-18",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Edgar Family"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "haste",
+      "poise"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/edgar-family-chief-butler-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/edgar-family-chief-butler-ryoshu.webp"
+  },
+  {
+    "id": 53,
+    "slug": "lobotomy-ego-red-eyes-and-penitence-ryoshu",
+    "name": "Lobotomy E.G.O::Red Eyes & Penitence Ryōshū",
+    "name_ko": "로보토미 E.G.O::적안 · 참회 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-09-05",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed",
+      "charge"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-red-eyes-and-penitence-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-red-eyes-and-penitence-ryoshu.webp"
+  },
+  {
+    "id": 54,
+    "slug": "heishou-pack-mao-branch-ryoshu",
+    "name": "Heishou Pack - Mao Branch Ryōshū",
+    "name_ko": "흑수 - 묘 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-03-20",
+    "faction": "Heishou Pack",
+    "factions": [
+      "Heishou Pack",
+      "H Corp.",
+      "Heishou Pack - Mao Branch"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "haste",
+      "rupture"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-mao-branch-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-mao-branch-ryoshu.webp"
+  },
+  {
+    "id": 55,
+    "slug": "n-corp-ego-contempt-awe-ryoshu",
+    "name": "N Corp. E.G.O::Contempt, Awe Ryōshū",
+    "name_ko": "N사 E.G.O::경멸, 경외 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-09-11",
+    "faction": "N Corp.",
+    "factions": [
+      "N Corp.",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed",
+      "poise",
+      "tremor"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/n-corp-ego-contempt-awe-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/n-corp-ego-contempt-awe-ryoshu.webp"
+  },
+  {
+    "id": 56,
+    "slug": "drifting-blade-of-hongyuan-ryoshu",
+    "name": "Drifting Blade of Hongyuan Ryōshū",
+    "name_ko": "홍원 방랑무사 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-12-04",
+    "faction": "H Corp.",
+    "factions": [
+      "H Corp."
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/drifting-blade-of-hongyuan-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/drifting-blade-of-hongyuan-ryoshu.webp"
+  },
+  {
+    "id": 57,
+    "slug": "lobotomy-ego-faint-aroma-and-solitude-ryoshu",
+    "name": "Lobotomy E.G.O::Faint Aroma & Solitude Ryōshū",
+    "name_ko": "로보토미 E.G.O::잔향 · 외로움 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 8,
+    "release_date": "2026-03-05",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "sinking",
+      "tremor"
+    ],
+    "hp_base": 75,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-faint-aroma-and-solitude-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-faint-aroma-and-solitude-ryoshu.webp"
+  },
+  {
+    "id": 58,
+    "slug": "lcb-sinner-meursault",
+    "name": "LCB Sinner Meursault",
+    "name_ko": "LCB 수감자 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 90,
+    "min_speed": 2,
+    "max_speed": 3,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-meursault.webp"
+  },
+  {
+    "id": 59,
+    "slug": "liu-assoc-south-section-6-meursault",
+    "name": "Liu Assoc. South Section 6 Meursault",
+    "name_ko": "남부 리우 협회 6과 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Liu Association"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 82,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/liu-assoc-south-section-6-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/liu-assoc-south-section-6-meursault.webp"
+  },
+  {
+    "id": 60,
+    "slug": "rosespanner-workshop-fixer-meursault",
+    "name": "Rosespanner Workshop Fixer Meursault",
+    "name_ko": "장미스패너 공방 해결사 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-06-01",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Rosespanner Workshop"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "charge",
+      "tremor"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/rosespanner-workshop-fixer-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/rosespanner-workshop-fixer-meursault.webp"
+  },
+  {
+    "id": 61,
+    "slug": "the-middle-little-brother-meursault",
+    "name": "The Middle Little Brother Meursault",
+    "name_ko": "중지 작은 아우 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 2,
+    "season": 3,
+    "release_date": "2023-11-23",
+    "faction": "The Middle",
+    "factions": [
+      "The Middle",
+      "The Fingers"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-middle-little-brother-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-middle-little-brother-meursault.webp"
+  },
+  {
+    "id": 62,
+    "slug": "dead-rabbits-boss-meursault",
+    "name": "Dead Rabbits Boss Meursault",
+    "name_ko": "데드레빗츠 보스 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 2,
+    "season": 4,
+    "release_date": "2024-03-28",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "The Dead Rabbits"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "offense_down",
+      "rupture"
+    ],
+    "hp_base": 76,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/dead-rabbits-boss-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/dead-rabbits-boss-meursault.webp"
+  },
+  {
+    "id": 63,
+    "slug": "w-corp-l2-cleanup-agent-meursault",
+    "name": "W Corp. L2 Cleanup Agent Meursault",
+    "name_ko": "W사 2등급 정리 요원 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "W Corp.",
+    "factions": [
+      "W Corp."
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "pride"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "charge",
+      "rupture"
+    ],
+    "hp_base": 79,
+    "min_speed": 4,
+    "max_speed": 8,
+    "defense_level": 4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/w-corp-l2-cleanup-agent-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/w-corp-l2-cleanup-agent-meursault.webp"
+  },
+  {
+    "id": 64,
+    "slug": "n-corp-grosshammer-meursault",
+    "name": "N Corp. Großhammer Meursault",
+    "name_ko": "N사 큰 망치 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-03-09",
+    "faction": "N Corp. Fanatic",
+    "factions": [
+      "N Corp. Fanatic",
+      "N Corp."
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "pride",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 99,
+    "min_speed": 3,
+    "max_speed": 5,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/n-corp-grosshammer-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/n-corp-grosshammer-meursault.webp"
+  },
+  {
+    "id": 65,
+    "slug": "r-corp-4th-pack-rhino-meursault",
+    "name": "R Corp. 4th Pack Rhino Meursault",
+    "name_ko": "R사 제 4무리 코뿔소팀 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-07-13",
+    "faction": "R Corp.",
+    "factions": [
+      "R Corp."
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed",
+      "charge"
+    ],
+    "hp_base": 95,
+    "min_speed": 3,
+    "max_speed": 5,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/r-corp-4th-pack-rhino-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/r-corp-4th-pack-rhino-meursault.webp"
+  },
+  {
+    "id": 66,
+    "slug": "blade-lineage-mentor-meursault",
+    "name": "Blade Lineage Mentor Meursault",
+    "name_ko": "검계 우두머리 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2024-02-22",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Blade Lineage"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/blade-lineage-mentor-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/blade-lineage-mentor-meursault.webp"
+  },
+  {
+    "id": 67,
+    "slug": "dieci-assoc-south-section-4-director-meursault",
+    "name": "Dieci Assoc. South Section 4 Director Meursault",
+    "name_ko": "남부 디에치 협회 4과 부장 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-07-11",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Dieci Association"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/dieci-assoc-south-section-4-director-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/dieci-assoc-south-section-4-director-meursault.webp"
+  },
+  {
+    "id": 68,
+    "slug": "cinq-assoc-west-section-3-meursault",
+    "name": "Cinq Assoc. West Section 3 Meursault",
+    "name_ko": "서부 섕크 협회 3과 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2024-10-10",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Cinq Association"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "haste",
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/cinq-assoc-west-section-3-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/cinq-assoc-west-section-3-meursault.webp"
+  },
+  {
+    "id": 69,
+    "slug": "the-thumb-east-capo-iiii-meursault",
+    "name": "The Thumb East Capo IIII Meursault",
+    "name_ko": "동부 엄지 카포 IIII 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-06-19",
+    "faction": "The Thumb",
+    "factions": [
+      "The Thumb",
+      "The Fingers",
+      "Capo IIII"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "burn",
+      "tremor"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-thumb-east-capo-iiii-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-thumb-east-capo-iiii-meursault.webp"
+  },
+  {
+    "id": 70,
+    "slug": "the-prince-of-la-manchaland-meursault",
+    "name": "The Prince of La Manchaland Meursault",
+    "name_ko": "라만차랜드 왕자 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-10-23",
+    "faction": "La Manchaland",
+    "factions": [
+      "La Manchaland",
+      "Bloodfiend",
+      "Third Kindred"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed",
+      "haste",
+      "rupture"
+    ],
+    "hp_base": 88,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-prince-of-la-manchaland-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-prince-of-la-manchaland-meursault.webp"
+  },
+  {
+    "id": 71,
+    "slug": "lobotomy-ego-hornet-alteration-meursault",
+    "name": "Lobotomy E.G.O::Hornet【Alteration】 Meursault",
+    "name_ko": "로보토미 E.G.O::호넷【변조】뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 8,
+    "release_date": "2026-03-05",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed",
+      "burn"
+    ],
+    "hp_base": 72,
+    "min_speed": 4,
+    "max_speed": 8,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-hornet-alteration-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-hornet-alteration-meursault.webp"
+  },
+  {
+    "id": 72,
+    "slug": "lcb-sinner-hong-lu",
+    "name": "LCB Sinner Hong Lu",
+    "name_ko": "LCB 수감자 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "rupture",
+      "sinking"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-hong-lu.webp"
+  },
+  {
+    "id": 73,
+    "slug": "kurokumo-clan-wakashu-hong-lu",
+    "name": "Kurokumo Clan Wakashu Hong Lu",
+    "name_ko": "흑운회 와카슈 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Kurokumo Clan"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/kurokumo-clan-wakashu-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/kurokumo-clan-wakashu-hong-lu.webp"
+  },
+  {
+    "id": 74,
+    "slug": "liu-assoc-south-section-5-hong-lu",
+    "name": "Liu Assoc. South Section 5 Hong Lu",
+    "name_ko": "남부 리우 협회 5과 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-04-06",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Liu Association"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/liu-assoc-south-section-5-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/liu-assoc-south-section-5-hong-lu.webp"
+  },
+  {
+    "id": 75,
+    "slug": "w-corp-l2-cleanup-agent-hong-lu",
+    "name": "W Corp. L2 Cleanup Agent Hong Lu",
+    "name_ko": "W사 2등급 정리 요원 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-08-24",
+    "faction": "W Corp.",
+    "factions": [
+      "W Corp."
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "charge",
+      "haste",
+      "rupture"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/w-corp-l2-cleanup-agent-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/w-corp-l2-cleanup-agent-hong-lu.webp"
+  },
+  {
+    "id": 76,
+    "slug": "hook-office-fixer-hong-lu",
+    "name": "Hook Office Fixer Hong Lu",
+    "name_ko": "갈고리 사무소 해결사 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-10-26",
+    "faction": "The Backstreets",
+    "factions": [
+      "The Backstreets",
+      "Fixer",
+      "Hook Office"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/hook-office-fixer-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/hook-office-fixer-hong-lu.webp"
+  },
+  {
+    "id": 77,
+    "slug": "fanghunt-office-fixer-hong-lu",
+    "name": "Fanghunt Office Fixer Hong Lu",
+    "name_ko": "송곳니 사냥 사무소 해결사 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 2,
+    "season": 5,
+    "release_date": "2024-10-17",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Fanghunt Office"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 73,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/fanghunt-office-fixer-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/fanghunt-office-fixer-hong-lu.webp"
+  },
+  {
+    "id": 78,
+    "slug": "tingtang-gang-gangleader-hong-lu",
+    "name": "Tingtang Gang Gangleader Hong Lu",
+    "name_ko": "콩콩이파 두목 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "The Backstreets",
+    "factions": [
+      "The Backstreets",
+      "Syndicate",
+      "Tingtang Gang"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "lust"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/tingtang-gang-gangleader-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/tingtang-gang-gangleader-hong-lu.webp"
+  },
+  {
+    "id": 79,
+    "slug": "k-corp-class-3-excision-staff-hong-lu",
+    "name": "K Corp. Class 3 Excision Staff Hong Lu",
+    "name_ko": "K사 3등급 적출직 직원 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-06-29",
+    "faction": "K Corp.",
+    "factions": [
+      "K Corp."
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 99,
+    "min_speed": 2,
+    "max_speed": 6,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/k-corp-class-3-excision-staff-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/k-corp-class-3-excision-staff-hong-lu.webp"
+  },
+  {
+    "id": 80,
+    "slug": "dieci-assoc-south-section-4-hong-lu",
+    "name": "Dieci Assoc. South Section 4 Hong Lu",
+    "name_ko": "남부 디에치 협회 4과 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2024-01-25",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Dieci Association"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 79,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/dieci-assoc-south-section-4-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/dieci-assoc-south-section-4-hong-lu.webp"
+  },
+  {
+    "id": 81,
+    "slug": "district-20-yurodivy-hong-lu",
+    "name": "District 20 Yurodivy Hong Lu",
+    "name_ko": "20구 유로지비 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-06-13",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Yurodiviye"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/district-20-yurodivy-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/district-20-yurodivy-hong-lu.webp"
+  },
+  {
+    "id": 82,
+    "slug": "full-stop-office-rep-hong-lu",
+    "name": "Full-Stop Office Rep Hong Lu",
+    "name_ko": "마침표 사무소 대표 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-01-09",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Full-Stop Office"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/full-stop-office-rep-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/full-stop-office-rep-hong-lu.webp"
+  },
+  {
+    "id": 83,
+    "slug": "r-corp-4th-pack-reindeer-hong-lu",
+    "name": "R Corp. 4th Pack Reindeer Hong Lu",
+    "name_ko": "R사 제 4무리 순록팀 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-04-30",
+    "faction": "R Corp.",
+    "factions": [
+      "R Corp."
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "wrath"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "charge",
+      "sinking"
+    ],
+    "hp_base": 65,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/r-corp-4th-pack-reindeer-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/r-corp-4th-pack-reindeer-hong-lu.webp"
+  },
+  {
+    "id": 84,
+    "slug": "the-lord-of-hongyuan-hong-lu",
+    "name": "The Lord of Hongyuan Hong Lu",
+    "name_ko": "홍원 군주 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-08-14",
+    "faction": "H Corp.",
+    "factions": [
+      "H Corp."
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 60,
+    "min_speed": 4,
+    "max_speed": 8,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-lord-of-hongyuan-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-lord-of-hongyuan-hong-lu.webp"
+  },
+  {
+    "id": 85,
+    "slug": "lcb-sinner-heathcliff",
+    "name": "LCB Sinner Heathcliff",
+    "name_ko": "LCB 수감자 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 78,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-heathcliff.webp"
+  },
+  {
+    "id": 86,
+    "slug": "shi-assoc-south-section-5-heathcliff",
+    "name": "Shi Assoc. South Section 5 Heathcliff",
+    "name_ko": "남부 시 협회 5과 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Shi Association"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 82,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/shi-assoc-south-section-5-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/shi-assoc-south-section-5-heathcliff.webp"
+  },
+  {
+    "id": 87,
+    "slug": "n-corp-kleinhammer-heathcliff",
+    "name": "N Corp. Kleinhammer Heathcliff",
+    "name_ko": "N사 작은 망치 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-03-23",
+    "faction": "N Corp. Fanatic",
+    "factions": [
+      "N Corp. Fanatic",
+      "N Corp."
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/n-corp-kleinhammer-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/n-corp-kleinhammer-heathcliff.webp"
+  },
+  {
+    "id": 88,
+    "slug": "seven-assoc-south-section-4-heathcliff",
+    "name": "Seven Assoc. South Section 4 Heathcliff",
+    "name_ko": "남부 세븐 협회 4과 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-09-07",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Seven Association"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/seven-assoc-south-section-4-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/seven-assoc-south-section-4-heathcliff.webp"
+  },
+  {
+    "id": 89,
+    "slug": "multicrack-office-fixer-heathcliff",
+    "name": "MultiCrack Office Fixer Heathcliff",
+    "name_ko": "멀티크랙 사무소 해결사 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 2,
+    "season": 4,
+    "release_date": "2024-08-08",
+    "faction": "Mechanical Amalgam",
+    "factions": [
+      "Mechanical Amalgam",
+      "Fixer",
+      "MultiCrack Office"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "charge",
+      "haste"
+    ],
+    "hp_base": 71,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/multicrack-office-fixer-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/multicrack-office-fixer-heathcliff.webp"
+  },
+  {
+    "id": 90,
+    "slug": "r-corp-4th-pack-rabbit-heathcliff",
+    "name": "R Corp. 4th Pack Rabbit Heathcliff",
+    "name_ko": "R사 제 4무리 토끼팀 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "R Corp.",
+    "factions": [
+      "R Corp."
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed",
+      "charge",
+      "haste",
+      "rupture"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/r-corp-4th-pack-rabbit-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/r-corp-4th-pack-rabbit-heathcliff.webp"
+  },
+  {
+    "id": 91,
+    "slug": "lobotomy-ego-sunshower-heathcliff",
+    "name": "Lobotomy E.G.O::Sunshower Heathcliff",
+    "name_ko": "로보토미 E.G.O::여우비 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-06-08",
+    "faction": "Technology Liberation Alliance",
+    "factions": [
+      "Technology Liberation Alliance",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "rupture",
+      "sinking",
+      "tremor"
+    ],
+    "hp_base": 86,
+    "min_speed": 3,
+    "max_speed": 5,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-sunshower-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-sunshower-heathcliff.webp"
+  },
+  {
+    "id": 92,
+    "slug": "the-pequod-harpooneer-heathcliff",
+    "name": "The Pequod Harpooneer Heathcliff",
+    "name_ko": "피쿼드호 작살잡이 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2023-12-07",
+    "faction": "The Pequod",
+    "factions": [
+      "The Pequod"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 99,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-pequod-harpooneer-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-pequod-harpooneer-heathcliff.webp"
+  },
+  {
+    "id": 93,
+    "slug": "oufi-assoc-south-section-3-heathcliff",
+    "name": "Öufi Assoc. South Section 3 Heathcliff",
+    "name_ko": "남부 외우피 협회 3과 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2024-03-21",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Öufi Association"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "pride"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 79,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/oufi-assoc-south-section-3-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/oufi-assoc-south-section-3-heathcliff.webp"
+  },
+  {
+    "id": 94,
+    "slug": "wild-hunt-heathcliff",
+    "name": "Wild Hunt Heathcliff",
+    "name_ko": "와일드헌트 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-08-22",
+    "faction": "Wuthering Heights",
+    "factions": [
+      "Wuthering Heights",
+      "The Wild Hunt"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 73,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/wild-hunt-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/wild-hunt-heathcliff.webp"
+  },
+  {
+    "id": 95,
+    "slug": "full-stop-office-fixer-heathcliff",
+    "name": "Full-Stop Office Fixer Heathcliff",
+    "name_ko": "마침표 사무소 해결사 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-01-09",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Full-Stop Office"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "pride"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "haste",
+      "poise"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/full-stop-office-fixer-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/full-stop-office-fixer-heathcliff.webp"
+  },
+  {
+    "id": 96,
+    "slug": "kurokumo-clan-wakashu-heathcliff",
+    "name": "Kurokumo Clan Wakashu Heathcliff",
+    "name_ko": "흑운회 와카슈 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-02-06",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Kurokumo Clan"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/kurokumo-clan-wakashu-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/kurokumo-clan-wakashu-heathcliff.webp"
+  },
+  {
+    "id": 97,
+    "slug": "w-corp-l4-cleanup-agent-cca-heathcliff",
+    "name": "W Corp. L4 Cleanup Agent - CCA Heathcliff",
+    "name_ko": "W사 4등급 정리 요원 - CCA 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-10-23",
+    "faction": "W Corp.",
+    "factions": [
+      "W Corp."
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "gluttony"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "charge",
+      "rupture"
+    ],
+    "hp_base": 99,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/w-corp-l4-cleanup-agent-cca-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/w-corp-l4-cleanup-agent-cca-heathcliff.webp"
+  },
+  {
+    "id": 98,
+    "slug": "heishou-pack-you-branch-adept-heathcliff",
+    "name": "Heishou Pack - You Branch Adept Heathcliff",
+    "name_ko": "흑수 - 유 필두 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-11-20",
+    "faction": "H Corp.",
+    "factions": [
+      "H Corp.",
+      "Heishou Pack - You Branch",
+      "Heishou Pack",
+      "Heishou Pack Adept"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "wrath"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "burn",
+      "rupture"
+    ],
+    "hp_base": 92,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-you-branch-adept-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-you-branch-adept-heathcliff.webp"
+  },
+  {
+    "id": 99,
+    "slug": "lcb-sinner-ishmael",
+    "name": "LCB Sinner Ishmael",
+    "name_ko": "LCB 수감자 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 78,
+    "min_speed": 5,
+    "max_speed": 8,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-ishmael.webp"
+  },
+  {
+    "id": 100,
+    "slug": "shi-assoc-south-section-5-ishmael",
+    "name": "Shi Assoc. South Section 5 Ishmael",
+    "name_ko": "남부 시 협회 5과 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Shi Association"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 82,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/shi-assoc-south-section-5-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/shi-assoc-south-section-5-ishmael.webp"
+  },
+  {
+    "id": 101,
+    "slug": "lccb-assistant-manager-ishmael",
+    "name": "LCCB Assistant Manager Ishmael",
+    "name_ko": "LCCB 대리 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCC"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "rupture",
+      "tremor"
+    ],
+    "hp_base": 82,
+    "min_speed": 2,
+    "max_speed": 6,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lccb-assistant-manager-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lccb-assistant-manager-ishmael.webp"
+  },
+  {
+    "id": 102,
+    "slug": "lobotomy-ego-sloshing-ishmael",
+    "name": "Lobotomy E.G.O::Sloshing Ishmael",
+    "name_ko": "로보토미 E.G.O::출렁임 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-06-15",
+    "faction": "Technology Liberation Alliance",
+    "factions": [
+      "Technology Liberation Alliance"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "rupture",
+      "tremor"
+    ],
+    "hp_base": 90,
+    "min_speed": 2,
+    "max_speed": 7,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-sloshing-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-sloshing-ishmael.webp"
+  },
+  {
+    "id": 103,
+    "slug": "edgar-family-butler-ishmael",
+    "name": "Edgar Family Butler Ishmael",
+    "name_ko": "에드가 가문 버틀러 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 2,
+    "season": 4,
+    "release_date": "2024-04-18",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Edgar Family"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "poise",
+      "sinking"
+    ],
+    "hp_base": 73,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/edgar-family-butler-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/edgar-family-butler-ishmael.webp"
+  },
+  {
+    "id": 104,
+    "slug": "r-corp-4th-pack-reindeer-ishmael",
+    "name": "R Corp. 4th Pack Reindeer Ishmael",
+    "name_ko": "R사 제 4무리 순록팀 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "R Corp.",
+    "factions": [
+      "R Corp."
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "charge",
+      "sinking"
+    ],
+    "hp_base": 79,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/r-corp-4th-pack-reindeer-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/r-corp-4th-pack-reindeer-ishmael.webp"
+  },
+  {
+    "id": 105,
+    "slug": "liu-assoc-south-section-4-ishmael",
+    "name": "Liu Assoc. South Section 4 Ishmael",
+    "name_ko": "남부 리우 협회 4과 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-07-06",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Liu Association"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 79,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/liu-assoc-south-section-4-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/liu-assoc-south-section-4-ishmael.webp"
+  },
+  {
+    "id": 106,
+    "slug": "molar-boatworks-fixer-ishmael",
+    "name": "Molar Boatworks Fixer Ishmael",
+    "name_ko": "어금니 보트 센터 해결사 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-07-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Molar Office"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "sinking",
+      "tremor"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/molar-boatworks-fixer-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/molar-boatworks-fixer-ishmael.webp"
+  },
+  {
+    "id": 107,
+    "slug": "the-pequod-captain-ishmael",
+    "name": "The Pequod Captain Ishmael",
+    "name_ko": "피쿼드호 선장 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2024-02-08",
+    "faction": "The Pequod",
+    "factions": [
+      "The Pequod"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed",
+      "burn",
+      "poise"
+    ],
+    "hp_base": 68,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-pequod-captain-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-pequod-captain-ishmael.webp"
+  },
+  {
+    "id": 108,
+    "slug": "zwei-assoc-west-section-3-ishmael",
+    "name": "Zwei Assoc. West Section 3 Ishmael",
+    "name_ko": "서부 츠바이 협회 3과 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-10-03",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Zwei Association"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 93,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/zwei-assoc-west-section-3-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/zwei-assoc-west-section-3-ishmael.webp"
+  },
+  {
+    "id": 109,
+    "slug": "kurokumo-clan-captain-ishmael",
+    "name": "Kurokumo Clan Captain Ishmael",
+    "name_ko": "흑운회 부조장 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-02-06",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Kurokumo Clan"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 93,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/kurokumo-clan-captain-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/kurokumo-clan-captain-ishmael.webp"
+  },
+  {
+    "id": 110,
+    "slug": "family-hierarch-candidate-ishmael",
+    "name": "Family Hierarch Candidate Ishmael",
+    "name_ko": "가주 후보 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-06-05",
+    "faction": "Family Hierarch Candidate",
+    "factions": [
+      "Family Hierarch Candidate",
+      "H Corp.",
+      "Jia Family"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "gluttony"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/family-hierarch-candidate-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/family-hierarch-candidate-ishmael.webp"
+  },
+  {
+    "id": 111,
+    "slug": "jeongs-office-rep-ishmael",
+    "name": "Jeong's Office Rep Ishmael",
+    "name_ko": "정사무소 대표 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2025-11-06",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Associate Office - Öufi",
+      "Jeong's Office"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "sinking",
+      "tremor"
+    ],
+    "hp_base": 88,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/jeongs-office-rep-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/jeongs-office-rep-ishmael.webp"
+  },
+  {
+    "id": 112,
+    "slug": "the-house-of-spiders-the-middle-apprentice-ishmael",
+    "name": "The House of Spiders: The Middle Apprentice Ishmael",
+    "name_ko": "거미집 중지 제자 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-01-22",
+    "faction": "The Middle",
+    "factions": [
+      "The Middle",
+      "The Fingers",
+      "The House of Spiders"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed",
+      "burn"
+    ],
+    "hp_base": 92,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-house-of-spiders-the-middle-apprentice-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-house-of-spiders-the-middle-apprentice-ishmael.webp"
+  },
+  {
+    "id": 113,
+    "slug": "lcb-sinner-rodion",
+    "name": "LCB Sinner Rodion",
+    "name_ko": "LCB 수감자 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 78,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-rodion.webp"
+  },
+  {
+    "id": 114,
+    "slug": "lccb-assistant-manager-rodion",
+    "name": "LCCB Assistant Manager Rodion",
+    "name_ko": "LCCB 대리 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCC"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [],
+    "hp_base": 63,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lccb-assistant-manager-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lccb-assistant-manager-rodion.webp"
+  },
+  {
+    "id": 115,
+    "slug": "n-corp-mittelhammer-rodion",
+    "name": "N Corp. Mittelhammer Rodion",
+    "name_ko": "N사 중간 망치 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-03-09",
+    "faction": "N Corp. Fanatic",
+    "factions": [
+      "N Corp. Fanatic",
+      "N Corp."
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "bleed",
+      "haste"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/n-corp-mittelhammer-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/n-corp-mittelhammer-rodion.webp"
+  },
+  {
+    "id": 116,
+    "slug": "zwei-assoc-south-section-5-rodion",
+    "name": "Zwei Assoc. South Section 5 Rodion",
+    "name_ko": "남부 츠바이 협회 5과 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-07-13",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Zwei Association"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 88,
+    "min_speed": 2,
+    "max_speed": 4,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/zwei-assoc-south-section-5-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/zwei-assoc-south-section-5-rodion.webp"
+  },
+  {
+    "id": 117,
+    "slug": "t-corp-class-2-collection-staff-rodion",
+    "name": "T Corp. Class 2 Collection Staff Rodion",
+    "name_ko": "T사 2등급 징수직 직원 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 2,
+    "season": 4,
+    "release_date": "2024-06-27",
+    "faction": "T Corp.",
+    "factions": [
+      "T Corp."
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 86,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/t-corp-class-2-collection-staff-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/t-corp-class-2-collection-staff-rodion.webp"
+  },
+  {
+    "id": 118,
+    "slug": "kurokumo-clan-wakashu-rodion",
+    "name": "Kurokumo Clan Wakashu Rodion",
+    "name_ko": "흑운회 와카슈 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Kurokumo Clan"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 86,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/kurokumo-clan-wakashu-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/kurokumo-clan-wakashu-rodion.webp"
+  },
+  {
+    "id": 119,
+    "slug": "rosespanner-workshop-rep-rodion",
+    "name": "Rosespanner Workshop Rep Rodion",
+    "name_ko": "장미스패너 공방 대표 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-06-01",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Rosespanner Workshop"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "charge",
+      "haste",
+      "tremor"
+    ],
+    "hp_base": 73,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/rosespanner-workshop-rep-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/rosespanner-workshop-rep-rodion.webp"
+  },
+  {
+    "id": 120,
+    "slug": "dieci-assoc-south-section-4-rodion",
+    "name": "Dieci Assoc. South Section 4 Rodion",
+    "name_ko": "남부 디에치 협회 4과 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-09-21",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Dieci Association"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "sloth"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 88,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/dieci-assoc-south-section-4-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/dieci-assoc-south-section-4-rodion.webp"
+  },
+  {
+    "id": 121,
+    "slug": "liu-assoc-south-section-4-director-rodion",
+    "name": "Liu Assoc. South Section 4 Director Rodion",
+    "name_ko": "남부 리우 협회 4과 부장 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2024-03-07",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Liu Association"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 79,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/liu-assoc-south-section-4-director-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/liu-assoc-south-section-4-director-rodion.webp"
+  },
+  {
+    "id": 122,
+    "slug": "devyat-assoc-north-section-3-rodion",
+    "name": "Devyat' Assoc. North Section 3 Rodion",
+    "name_ko": "북부 제뱌찌 협회 3과 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-09-19",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Devyat' Association"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 81,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/devyat-assoc-north-section-3-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/devyat-assoc-north-section-3-rodion.webp"
+  },
+  {
+    "id": 123,
+    "slug": "the-princess-of-la-manchaland-rodion",
+    "name": "The Princess of La Manchaland Rodion",
+    "name_ko": "라만차랜드 공주 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2024-11-14",
+    "faction": "La Manchaland",
+    "factions": [
+      "La Manchaland",
+      "Bloodfiend",
+      "Second Kindred"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "bleed",
+      "rupture"
+    ],
+    "hp_base": 79,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-princess-of-la-manchaland-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-princess-of-la-manchaland-rodion.webp"
+  },
+  {
+    "id": 124,
+    "slug": "heishou-pack-si-branch-rodion",
+    "name": "Heishou Pack - Si Branch Rodion",
+    "name_ko": "흑수 - 사 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-05-15",
+    "faction": "Heishou Pack",
+    "factions": [
+      "Heishou Pack",
+      "H Corp.",
+      "Heishou Pack - Si Branch"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "gluttony"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "offense_down",
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-si-branch-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-si-branch-rodion.webp"
+  },
+  {
+    "id": 125,
+    "slug": "lobotomy-ego-the-sword-sharpened-with-tears-rodion",
+    "name": "Lobotomy E.G.O::The Sword Sharpened with Tears Rodion",
+    "name_ko": "로보토미 E.G.O::눈물로 벼려낸 검 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-07-17",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "pride"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "charge",
+      "sinking"
+    ],
+    "hp_base": 90,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-the-sword-sharpened-with-tears-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-the-sword-sharpened-with-tears-rodion.webp"
+  },
+  {
+    "id": 126,
+    "slug": "r-corp-4th-pack-reindeer-rodion",
+    "name": "R Corp. 4th Pack Reindeer Rodion",
+    "name_ko": "R사 제 4무리 순록팀 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-12-18",
+    "faction": "R Corp.",
+    "factions": [
+      "R Corp."
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "charge",
+      "sinking"
+    ],
+    "hp_base": 86,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/r-corp-4th-pack-reindeer-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/r-corp-4th-pack-reindeer-rodion.webp"
+  },
+  {
+    "id": 127,
+    "slug": "lcb-sinner-sinclair",
+    "name": "LCB Sinner Sinclair",
+    "name_ko": "LCB 수감자 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 60,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-sinclair.webp"
+  },
+  {
+    "id": 128,
+    "slug": "zwei-assoc-south-section-6-sinclair",
+    "name": "Zwei Assoc. South Section 6 Sinclair",
+    "name_ko": "남부 츠바이 협회 6과 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Zwei Association"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 88,
+    "min_speed": 2,
+    "max_speed": 4,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/zwei-assoc-south-section-6-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/zwei-assoc-south-section-6-sinclair.webp"
+  },
+  {
+    "id": 129,
+    "slug": "los-mariachis-jefe-sinclair",
+    "name": "Los Mariachis Jefe Sinclair",
+    "name_ko": "마리아치 보스 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "The Backstreets",
+    "factions": [
+      "The Backstreets",
+      "Syndicate",
+      "Los Mariachis"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "poise",
+      "sinking"
+    ],
+    "hp_base": 95,
+    "min_speed": 2,
+    "max_speed": 3,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/los-mariachis-jefe-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/los-mariachis-jefe-sinclair.webp"
+  },
+  {
+    "id": 130,
+    "slug": "lobotomy-ego-red-sheet-sinclair",
+    "name": "Lobotomy E.G.O::Red Sheet Sinclair",
+    "name_ko": "로보토미 E.G.O::홍적 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-06-29",
+    "faction": "Technology Liberation Alliance",
+    "factions": [
+      "Technology Liberation Alliance",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-red-sheet-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-red-sheet-sinclair.webp"
+  },
+  {
+    "id": 131,
+    "slug": "molar-boatworks-fixer-sinclair",
+    "name": "Molar Boatworks Fixer Sinclair",
+    "name_ko": "어금니 보트 센터 해결사 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-07-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Molar Office"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "gluttony"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/molar-boatworks-fixer-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/molar-boatworks-fixer-sinclair.webp"
+  },
+  {
+    "id": 132,
+    "slug": "zwei-assoc-west-section-3-sinclair",
+    "name": "Zwei Assoc. West Section 3 Sinclair",
+    "name_ko": "서부 츠바이 협회 3과 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 2,
+    "season": 5,
+    "release_date": "2024-10-10",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Zwei Association"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "sloth"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 86,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/zwei-assoc-west-section-3-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/zwei-assoc-west-section-3-sinclair.webp"
+  },
+  {
+    "id": 133,
+    "slug": "blade-lineage-salsu-sinclair",
+    "name": "Blade Lineage Salsu Sinclair",
+    "name_ko": "검계 살수 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Blade Lineage"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 86,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/blade-lineage-salsu-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/blade-lineage-salsu-sinclair.webp"
+  },
+  {
+    "id": 134,
+    "slug": "the-one-who-shall-grip-sinclair",
+    "name": "The One Who Shall Grip Sinclair",
+    "name_ko": "쥐어들 자 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-05-03",
+    "faction": "N Corp. Fanatic",
+    "factions": [
+      "N Corp. Fanatic",
+      "N Corp."
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "bleed",
+      "burn"
+    ],
+    "hp_base": 79,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-one-who-shall-grip-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-one-who-shall-grip-sinclair.webp"
+  },
+  {
+    "id": 135,
+    "slug": "cinq-assoc-south-section-4-director-sinclair",
+    "name": "Cinq Assoc. South Section 4 Director Sinclair",
+    "name_ko": "남부 섕크 협회 4과 부장 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2023-12-21",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Cinq Association"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "haste",
+      "poise"
+    ],
+    "hp_base": 79,
+    "min_speed": 4,
+    "max_speed": 8,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/cinq-assoc-south-section-4-director-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/cinq-assoc-south-section-4-director-sinclair.webp"
+  },
+  {
+    "id": 136,
+    "slug": "dawn-office-fixer-sinclair",
+    "name": "Dawn Office Fixer Sinclair",
+    "name_ko": "새벽 사무소 해결사 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2024-05-02",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Dawn Office"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/dawn-office-fixer-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/dawn-office-fixer-sinclair.webp"
+  },
+  {
+    "id": 137,
+    "slug": "devyat-assoc-north-section-3-sinclair",
+    "name": "Devyat' Assoc. North Section 3 Sinclair",
+    "name_ko": "북부 제뱌찌 협회 3과 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2024-11-28",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Devyat' Association"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 73,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/devyat-assoc-north-section-3-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/devyat-assoc-north-section-3-sinclair.webp"
+  },
+  {
+    "id": 138,
+    "slug": "the-middle-little-brother-sinclair",
+    "name": "The Middle Little Brother Sinclair",
+    "name_ko": "중지 작은 아우 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-04-03",
+    "faction": "The Middle",
+    "factions": [
+      "The Middle",
+      "The Fingers"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 92,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-middle-little-brother-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-middle-little-brother-sinclair.webp"
+  },
+  {
+    "id": 139,
+    "slug": "the-thumb-east-soldato-ii-sinclair",
+    "name": "The Thumb East Soldato II Sinclair",
+    "name_ko": "동부 엄지 솔다토 II 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-06-19",
+    "faction": "The Fingers",
+    "factions": [
+      "The Fingers",
+      "The Thumb",
+      "Soldato II"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "burn",
+      "tremor"
+    ],
+    "hp_base": 79,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-thumb-east-soldato-ii-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-thumb-east-soldato-ii-sinclair.webp"
+  },
+  {
+    "id": 140,
+    "slug": "heishou-pack-you-branch-sinclair",
+    "name": "Heishou Pack - You Branch Sinclair",
+    "name_ko": "흑수 - 유 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-08-28",
+    "faction": "Heishou Pack - You Branch",
+    "factions": [
+      "Heishou Pack - You Branch",
+      "H Corp.",
+      "Heishou Pack"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "burn",
+      "rupture"
+    ],
+    "hp_base": 75,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-you-branch-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-you-branch-sinclair.webp"
+  },
+  {
+    "id": 141,
+    "slug": "the-house-of-spiders-the-pinky-apprentice-sinclair",
+    "name": "The House of Spiders: The Pinky Apprentice Sinclair",
+    "name_ko": "거미집 소지 제자 싱클레어",
+    "sinner_id": 10,
+    "sinner": "Sinclair",
+    "sinner_slug": "sinclair",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-02-05",
+    "faction": "The House of Spiders",
+    "factions": [
+      "The House of Spiders"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 66,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-house-of-spiders-the-pinky-apprentice-sinclair.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-house-of-spiders-the-pinky-apprentice-sinclair.webp"
+  },
+  {
+    "id": 142,
+    "slug": "lcb-sinner-outis",
+    "name": "LCB Sinner Outis",
+    "name_ko": "LCB 수감자 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 60,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-outis.webp"
+  },
+  {
+    "id": 143,
+    "slug": "blade-lineage-salsu-outis",
+    "name": "Blade Lineage Salsu Outis",
+    "name_ko": "검계 살수 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Blade Lineage"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "poise"
+    ],
+    "hp_base": 82,
+    "min_speed": 2,
+    "max_speed": 5,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/blade-lineage-salsu-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/blade-lineage-salsu-outis.webp"
+  },
+  {
+    "id": 144,
+    "slug": "g-corp-head-manager-outis",
+    "name": "G Corp. Head Manager Outis",
+    "name_ko": "G사 부장 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "G Corp.",
+    "factions": [
+      "G Corp."
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 76,
+    "min_speed": 4,
+    "max_speed": 8,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/g-corp-head-manager-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/g-corp-head-manager-outis.webp"
+  },
+  {
+    "id": 145,
+    "slug": "cinq-assoc-south-section-4-outis",
+    "name": "Cinq Assoc. South Section 4 Outis",
+    "name_ko": "남부 섕크 협회 4과 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 2,
+    "season": 3,
+    "release_date": "2023-12-21",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Cinq Association"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "haste",
+      "poise"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "ineffective",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/cinq-assoc-south-section-4-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/cinq-assoc-south-section-4-outis.webp"
+  },
+  {
+    "id": 146,
+    "slug": "the-ring-pointillist-student-outis",
+    "name": "The Ring Pointillist Student Outis",
+    "name_ko": "약지 점묘파 스튜던트 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 2,
+    "season": 4,
+    "release_date": "2024-05-16",
+    "faction": "School of Pointillism",
+    "factions": [
+      "School of Pointillism",
+      "The Ring",
+      "The Fingers",
+      "Student"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-ring-pointillist-student-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-ring-pointillist-student-outis.webp"
+  },
+  {
+    "id": 147,
+    "slug": "seven-assoc-south-section-6-director-outis",
+    "name": "Seven Assoc. South Section 6 Director Outis",
+    "name_ko": "남부 세븐 협회 6과 부장 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-04-06",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Seven Association"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "sloth"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 86,
+    "min_speed": 5,
+    "max_speed": 8,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/seven-assoc-south-section-6-director-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/seven-assoc-south-section-6-director-outis.webp"
+  },
+  {
+    "id": 148,
+    "slug": "molar-office-fixer-outis",
+    "name": "Molar Office Fixer Outis",
+    "name_ko": "어금니 사무소 해결사 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-09-14",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Molar Office"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 68,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/molar-office-fixer-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/molar-office-fixer-outis.webp"
+  },
+  {
+    "id": 149,
+    "slug": "lobotomy-ego-magic-bullet-outis",
+    "name": "Lobotomy E.G.O::Magic Bullet Outis",
+    "name_ko": "로보토미 E.G.O::마탄 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2024-01-11",
+    "faction": "Lobotomy Corp. Headquarters",
+    "factions": [
+      "Lobotomy Corp. Headquarters",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-magic-bullet-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-magic-bullet-outis.webp"
+  },
+  {
+    "id": 150,
+    "slug": "wuthering-heights-chief-butler-outis",
+    "name": "Wuthering Heights Chief Butler Outis",
+    "name_ko": "워더링하이츠 치프 버틀러 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-03-28",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Wuthering Heights"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -3,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/wuthering-heights-chief-butler-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/wuthering-heights-chief-butler-outis.webp"
+  },
+  {
+    "id": 151,
+    "slug": "w-corp-l3-cleanup-captain-outis",
+    "name": "W Corp. L3 Cleanup Captain Outis",
+    "name_ko": "W사 3등급 정리 요원 팀장 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-07-25",
+    "faction": "W Corp.",
+    "factions": [
+      "W Corp."
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "charge",
+      "rupture"
+    ],
+    "hp_base": 70,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/w-corp-l3-cleanup-captain-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/w-corp-l3-cleanup-captain-outis.webp"
+  },
+  {
+    "id": 152,
+    "slug": "the-barber-of-la-manchaland-outis",
+    "name": "The Barber of La Manchaland Outis",
+    "name_ko": "라만차랜드 이발사 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2024-10-17",
+    "faction": "La Manchaland",
+    "factions": [
+      "La Manchaland",
+      "Bloodfiend",
+      "Third Kindred"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 73,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-barber-of-la-manchaland-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-barber-of-la-manchaland-outis.webp"
+  },
+  {
+    "id": 153,
+    "slug": "heishou-pack-mao-branch-outis",
+    "name": "Heishou Pack - Mao Branch Outis",
+    "name_ko": "흑수 - 묘 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-03-20",
+    "faction": "Heishou Pack",
+    "factions": [
+      "Heishou Pack",
+      "H Corp.",
+      "Heishou Pack - Mao Branch"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "haste",
+      "rupture"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-mao-branch-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-mao-branch-outis.webp"
+  },
+  {
+    "id": 154,
+    "slug": "t-corp-class-3-vdcu-staff-outis",
+    "name": "T Corp. Class 3 VDCU Staff Outis",
+    "name_ko": "T사 3등급 강력징수직 직원 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-07-31",
+    "faction": "T Corp.",
+    "factions": [
+      "T Corp."
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "tremor"
+    ],
+    "hp_base": 73,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/t-corp-class-3-vdcu-staff-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/t-corp-class-3-vdcu-staff-outis.webp"
+  },
+  {
+    "id": 155,
+    "slug": "lca-udjat-vanguard-team-3-leader-outis",
+    "name": "LCA Udjat Vanguard Team 3 Leader Outis",
+    "name_ko": "LCA 우제트 선봉 3팀 팀장 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2025-12-31",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCA"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "sinking",
+      "tremor"
+    ],
+    "hp_base": 73,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lca-udjat-vanguard-team-3-leader-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lca-udjat-vanguard-team-3-leader-outis.webp"
+  },
+  {
+    "id": 156,
+    "slug": "lcb-sinner-gregor",
+    "name": "LCB Sinner Gregor",
+    "name_ko": "LCB 수감자 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 1,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCB"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 72,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcb-sinner-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcb-sinner-gregor.webp"
+  },
+  {
+    "id": 157,
+    "slug": "liu-assoc-south-section-6-gregor",
+    "name": "Liu Assoc. South Section 6 Gregor",
+    "name_ko": "남부 리우 협회 6과 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Liu Association"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 63,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/liu-assoc-south-section-6-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/liu-assoc-south-section-6-gregor.webp"
+  },
+  {
+    "id": 158,
+    "slug": "rb-sous-chef-gregor",
+    "name": "R.B. Sous-chef Gregor",
+    "name_ko": "료.고.파. 조수 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 2,
+    "season": 1,
+    "release_date": "2023-04-20",
+    "faction": "The Backstreets",
+    "factions": [
+      "The Backstreets",
+      "Syndicate",
+      "R.B."
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "lust"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed"
+    ],
+    "hp_base": 76,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/rb-sous-chef-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/rb-sous-chef-gregor.webp"
+  },
+  {
+    "id": 159,
+    "slug": "rosespanner-workshop-fixer-gregor",
+    "name": "Rosespanner Workshop Fixer Gregor",
+    "name_ko": "장미스패너 공방 해결사 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 2,
+    "season": 2,
+    "release_date": "2023-06-08",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Rosespanner Workshop"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "gluttony"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "charge",
+      "rupture",
+      "tremor"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/rosespanner-workshop-fixer-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/rosespanner-workshop-fixer-gregor.webp"
+  },
+  {
+    "id": 160,
+    "slug": "kurokumo-clan-captain-gregor",
+    "name": "Kurokumo Clan Captain Gregor",
+    "name_ko": "흑운회 부조장 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 2,
+    "season": 3,
+    "release_date": "2024-02-22",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Kurokumo Clan"
+    ],
+    "damage_types": [
+      "slash",
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "bleed",
+      "offense_down"
+    ],
+    "hp_base": 76,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/kurokumo-clan-captain-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/kurokumo-clan-captain-gregor.webp"
+  },
+  {
+    "id": 161,
+    "slug": "g-corp-manager-corporal-gregor",
+    "name": "G Corp. Manager Corporal Gregor",
+    "name_ko": "G사 일등대리 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 1,
+    "release_date": "2023-02-27",
+    "faction": "G Corp.",
+    "factions": [
+      "G Corp."
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "sloth"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "rupture"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/g-corp-manager-corporal-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/g-corp-manager-corporal-gregor.webp"
+  },
+  {
+    "id": 162,
+    "slug": "zwei-assoc-south-section-4-gregor",
+    "name": "Zwei Assoc. South Section 4 Gregor",
+    "name_ko": "남부 츠바이 협회 4과 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 2,
+    "release_date": "2023-08-10",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Zwei Association"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "gluttony",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [],
+    "hp_base": 90,
+    "min_speed": 4,
+    "max_speed": 8,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/zwei-assoc-south-section-4-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/zwei-assoc-south-section-4-gregor.webp"
+  },
+  {
+    "id": 163,
+    "slug": "twinhook-pirates-first-mate-gregor",
+    "name": "Twinhook Pirates First Mate Gregor",
+    "name_ko": "쌍갈고리 해적단 부선장 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 3,
+    "release_date": "2023-11-16",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Twinhook Pirates"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/twinhook-pirates-first-mate-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/twinhook-pirates-first-mate-gregor.webp"
+  },
+  {
+    "id": 164,
+    "slug": "edgar-family-heir-gregor",
+    "name": "Edgar Family Heir Gregor",
+    "name_ko": "에드가 가문 승계자 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 4,
+    "release_date": "2024-04-04",
+    "faction": "Edgar Family",
+    "factions": [
+      "Edgar Family"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "sinking"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 8,
+    "defense_level": -4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/edgar-family-heir-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/edgar-family-heir-gregor.webp"
+  },
+  {
+    "id": 165,
+    "slug": "the-priest-of-la-manchaland-gregor",
+    "name": "The Priest of La Manchaland Gregor",
+    "name_ko": "라만차랜드 신부 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2024-10-31",
+    "faction": "La Manchaland",
+    "factions": [
+      "La Manchaland",
+      "Bloodfiend",
+      "Third Kindred"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "bleed",
+      "rupture"
+    ],
+    "hp_base": 108,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-priest-of-la-manchaland-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-priest-of-la-manchaland-gregor.webp"
+  },
+  {
+    "id": 166,
+    "slug": "firefist-office-survivor-gregor",
+    "name": "Firefist Office Survivor Gregor",
+    "name_ko": "불주먹 사무소 생존자 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 5,
+    "release_date": "2025-03-06",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "burn"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/firefist-office-survivor-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/firefist-office-survivor-gregor.webp"
+  },
+  {
+    "id": 167,
+    "slug": "heishou-pack-si-branch-gregor",
+    "name": "Heishou Pack - Si Branch Gregor",
+    "name_ko": "흑수 - 사 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 6,
+    "release_date": "2025-05-15",
+    "faction": "Heishou Pack",
+    "factions": [
+      "Heishou Pack",
+      "H Corp.",
+      "Heishou Pack - Si Branch"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "poise",
+      "rupture"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/heishou-pack-si-branch-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/heishou-pack-si-branch-gregor.webp"
+  },
+  {
+    "id": 168,
+    "slug": "night-awls-capitano-gregor",
+    "name": "Night Awls Capitano Gregor",
+    "name_ko": "밤의 송곳 카피타노 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2025-11-06",
+    "faction": "Syndicate",
+    "factions": [
+      "Syndicate",
+      "Night Awls"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "bleed",
+      "tremor"
+    ],
+    "hp_base": 69,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/night-awls-capitano-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/night-awls-capitano-gregor.webp"
+  },
+  {
+    "id": 169,
+    "slug": "lobotomy-ego-lamp-gregor",
+    "name": "Lobotomy E.G.O::Lamp Gregor",
+    "name_ko": "로보토미 E.G.O::램프 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-02-05",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCE",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "burn",
+      "sinking"
+    ],
+    "hp_base": 86,
+    "min_speed": 1,
+    "max_speed": 4,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lobotomy-ego-lamp-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lobotomy-ego-lamp-gregor.webp"
+  },
+  {
+    "id": 170,
+    "slug": "lce-ego-aedd-gregor",
+    "name": "LCE E.G.O::AEDD Gregor",
+    "name_ko": "LCE E.G.O::AEDD 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-03-19",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCE",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "gluttony"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "charge",
+      "rupture"
+    ],
+    "hp_base": 86,
+    "min_speed": 5,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lce-ego-aedd-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lce-ego-aedd-gregor.webp"
+  },
+  {
+    "id": 171,
+    "slug": "the-house-of-spiders-the-ring-apprentice-faust",
+    "name": "The House of Spiders: The Ring Apprentice Faust",
+    "name_ko": "거미집 약지 제자 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-04-02",
+    "faction": "School of Corporism",
+    "factions": [
+      "School of Corporism",
+      "The Ring",
+      "The House of Spiders",
+      "Mechanical Amalgam",
+      "The Fingers"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "lust"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "bleed",
+      "charge"
+    ],
+    "hp_base": 92,
+    "min_speed": 3,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-house-of-spiders-the-ring-apprentice-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-house-of-spiders-the-ring-apprentice-faust.webp"
+  },
+  {
+    "id": 172,
+    "slug": "the-house-of-spiders-the-ring-nursefather-hong-lu",
+    "name": "The House of Spiders: The Ring Nursefather Hong Lu",
+    "name_ko": "거미집 약지 아비 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-04-02",
+    "faction": "School of Corporism",
+    "factions": [
+      "School of Corporism",
+      "The Ring",
+      "The House of Spiders",
+      "Mechanical Amalgam",
+      "The Fingers"
+    ],
+    "damage_types": [
+      "slash",
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "bleed",
+      "burn",
+      "charge",
+      "offense_down"
+    ],
+    "hp_base": 66,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-house-of-spiders-the-ring-nursefather-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-house-of-spiders-the-ring-nursefather-hong-lu.webp"
+  },
+  {
+    "id": 173,
+    "slug": "the-ring-fauvist-student-meursault",
+    "name": "The Ring Fauvist Student Meursault",
+    "name_ko": "약지 야수파 스튜던트 뫼르소",
+    "sinner_id": 5,
+    "sinner": "Meursault",
+    "sinner_slug": "meursault",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-04-16",
+    "faction": "The Ring",
+    "factions": [
+      "The Ring",
+      "School of Fauvism",
+      "The Fingers",
+      "Student"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed",
+      "sinking"
+    ],
+    "hp_base": 69,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": -1,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-ring-fauvist-student-meursault.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-ring-fauvist-student-meursault.webp"
+  },
+  {
+    "id": 174,
+    "slug": "the-ring-fauvist-docent-rodion",
+    "name": "The Ring Fauvist Docent Rodion",
+    "name_ko": "약지 야수파 도슨트 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-04-16",
+    "faction": "The Ring",
+    "factions": [
+      "The Ring",
+      "School of Fauvism",
+      "The Fingers",
+      "Docent"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gloom",
+      "lust"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "bleed",
+      "sinking"
+    ],
+    "hp_base": 71,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-ring-fauvist-docent-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-ring-fauvist-docent-rodion.webp"
+  },
+  {
+    "id": 175,
+    "slug": "the-middle-big-brother-heathcliff",
+    "name": "The Middle Big Brother Heathcliff",
+    "name_ko": "중지 작은 형님 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-04-30",
+    "faction": "The Fingers",
+    "factions": [
+      "The Fingers",
+      "The Middle"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed",
+      "burn",
+      "tremor"
+    ],
+    "hp_base": 90,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "fatal",
+      "pierce": "normal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-middle-big-brother-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-middle-big-brother-heathcliff.webp"
+  },
+  {
+    "id": 176,
+    "slug": "blade-of-the-house-of-spiders-ryoshu",
+    "name": "Blade of the House of Spiders Ryōshū",
+    "name_ko": "거미집의 검 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-05-14",
+    "faction": "The Pinky",
+    "factions": [
+      "The Pinky",
+      "The House of Spiders",
+      "The Fingers",
+      "Dihui Star",
+      "Tiansha Star"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed",
+      "burn",
+      "poise",
+      "sinking"
+    ],
+    "hp_base": 66,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/blade-of-the-house-of-spiders-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/blade-of-the-house-of-spiders-ryoshu.webp"
+  },
+  {
+    "id": 177,
+    "slug": "the-house-of-spiders-the-middle-nursefather-outis",
+    "name": "The House of Spiders: The Middle Nursefather Outis",
+    "name_ko": "거미집 중지 아비 오티스",
+    "sinner_id": 11,
+    "sinner": "Outis",
+    "sinner_slug": "outis",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-05-28",
+    "faction": "The Middle",
+    "factions": [
+      "The Middle",
+      "The House of Spiders",
+      "The Fingers"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "bleed",
+      "burn"
+    ],
+    "hp_base": 91,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 5,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-house-of-spiders-the-middle-nursefather-outis.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-house-of-spiders-the-middle-nursefather-outis.webp"
+  },
+  {
+    "id": 178,
+    "slug": "s-corp-chunokkun-hong-lu",
+    "name": "S Corp. Ch'unokkun Hong Lu",
+    "name_ko": "S사 추노꾼 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-06-11",
+    "faction": "S Corp.",
+    "factions": [
+      "S Corp.",
+      "Fixer"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gluttony",
+      "lust",
+      "pride"
+    ],
+    "primary_sin": "gluttony",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 84,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/s-corp-chunokkun-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/s-corp-chunokkun-hong-lu.webp"
+  },
+  {
+    "id": 179,
+    "slug": "lcd-osir-team-ishmael",
+    "name": "LCD OSIR Team Ishmael",
+    "name_ko": "LCD 현장추리팀 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-06-11",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCD",
+      "Blade Lineage",
+      "Syndicate"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed",
+      "poise"
+    ],
+    "hp_base": 85,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lcd-osir-team-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lcd-osir-team-ishmael.webp"
+  },
+  {
+    "id": 180,
+    "slug": "the-house-of-spiders-the-thumb-nursefather-rodion",
+    "name": "The House of Spiders: The Thumb Nursefather Rodion",
+    "name_ko": "거미집 엄지 아비 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-06-25",
+    "faction": "The Thumb",
+    "factions": [
+      "The Thumb",
+      "The House of Spiders",
+      "The Fingers",
+      "Smoke War",
+      "War Hero"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "burn",
+      "haste",
+      "poise",
+      "tremor"
+    ],
+    "hp_base": 66,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-house-of-spiders-the-thumb-nursefather-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-house-of-spiders-the-thumb-nursefather-rodion.webp"
+  },
+  {
+    "id": 181,
+    "slug": "the-house-of-spiders-the-thumb-apprentice-heathcliff",
+    "name": "The House of Spiders: The Thumb Apprentice Heathcliff",
+    "name_ko": "거미집 엄지 제자 히스클리프",
+    "sinner_id": 7,
+    "sinner": "Heathcliff",
+    "sinner_slug": "heathcliff",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-06-25",
+    "faction": "The Thumb",
+    "factions": [
+      "The Thumb",
+      "The House of Spiders",
+      "The Fingers"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "lust",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "lust",
+    "keywords": [
+      "burn",
+      "tremor"
+    ],
+    "hp_base": 83,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/the-house-of-spiders-the-thumb-apprentice-heathcliff.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/the-house-of-spiders-the-thumb-apprentice-heathcliff.webp"
+  },
+  {
+    "id": 182,
+    "slug": "dawn-office-rep-gregor",
+    "name": "Dawn Office Rep Gregor",
+    "name_ko": "새벽 사무소 대표 그레고르",
+    "sinner_id": 12,
+    "sinner": "Gregor",
+    "sinner_slug": "gregor",
+    "rarity": 3,
+    "season": 9,
+    "release_date": "2026-07-09",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Dawn Office"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "pride",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "sloth",
+    "keywords": [
+      "burn",
+      "tremor"
+    ],
+    "hp_base": 85,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 4,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/dawn-office-rep-gregor.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/dawn-office-rep-gregor.webp"
+  },
+  {
+    "id": 183,
+    "slug": "dawn-office-fixer-faust",
+    "name": "Dawn Office Fixer Faust",
+    "name_ko": "새벽 사무소 해결사 파우스트",
+    "sinner_id": 2,
+    "sinner": "Faust",
+    "sinner_slug": "faust",
+    "rarity": 3,
+    "season": 9,
+    "release_date": "2026-07-09",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Dawn Office"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "lust",
+      "pride",
+      "sloth",
+      "wrath"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "burn",
+      "tremor"
+    ],
+    "hp_base": 66,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/dawn-office-fixer-faust.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/dawn-office-fixer-faust.webp"
+  },
+  {
+    "id": 184,
+    "slug": "lce-ego-dimension-shredder-yi-sang",
+    "name": "LCE E.G.O::Dimension Shredder Yi Sang",
+    "name_ko": "LCE E.G.O::차원찢개 이상",
+    "sinner_id": 1,
+    "sinner": "Yi Sang",
+    "sinner_slug": "yi-sang",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-07-23",
+    "faction": "Limbus Company",
+    "factions": [
+      "Limbus Company",
+      "LCE",
+      "E.G.O Gear"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "gluttony",
+      "pride"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "charge",
+      "haste",
+      "rupture"
+    ],
+    "hp_base": 60,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": -2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/lce-ego-dimension-shredder-yi-sang.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/lce-ego-dimension-shredder-yi-sang.webp"
+  },
+  {
+    "id": 185,
+    "slug": "cinq-assoc-east-section-3-hong-lu",
+    "name": "Cinq Assoc. East Section 3 Hong Lu",
+    "name_ko": "동부 섕크 협회 3과 홍루",
+    "sinner_id": 6,
+    "sinner": "Hong Lu",
+    "sinner_slug": "hong-lu",
+    "rarity": 3,
+    "season": 7,
+    "release_date": "2026-08-20",
+    "faction": "Fixer",
+    "factions": [
+      "Fixer",
+      "Cinq Association"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "gloom",
+      "pride",
+      "wrath"
+    ],
+    "primary_sin": "gloom",
+    "keywords": [
+      "burn",
+      "haste",
+      "poise"
+    ],
+    "hp_base": 82,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/cinq-assoc-east-section-3-hong-lu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/cinq-assoc-east-section-3-hong-lu.webp"
+  },
+  {
+    "id": 186,
+    "slug": "haute-couture-le-noir-footwear-hall-ryoshu",
+    "name": "Haute Couture::Le Noir Footwear Hall Ryōshū",
+    "name_ko": "오트쿠튀르::르누아르 신발관 료슈",
+    "sinner_id": 4,
+    "sinner": "Ryoshu",
+    "sinner_slug": "ryoshu",
+    "rarity": 3,
+    "season": 8,
+    "release_date": "2026-09-17",
+    "faction": "Sisyphe",
+    "factions": [
+      "Sisyphe",
+      "Le Noir"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "envy",
+    "keywords": [
+      "charge",
+      "tremor"
+    ],
+    "hp_base": 73,
+    "min_speed": 3,
+    "max_speed": 7,
+    "defense_level": 2,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "normal",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/haute-couture-le-noir-footwear-hall-ryoshu.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/haute-couture-le-noir-footwear-hall-ryoshu.webp"
+  },
+  {
+    "id": 187,
+    "slug": "haute-couture-boutique-du-rouge-ishmael",
+    "name": "Haute Couture::Boutique du Rouge Ishmael",
+    "name_ko": "오트쿠튀르::르루주 부티크 이스마엘",
+    "sinner_id": 8,
+    "sinner": "Ishmael",
+    "sinner_slug": "ishmael",
+    "rarity": 3,
+    "season": 8,
+    "release_date": "2026-09-17",
+    "faction": "Sisyphe",
+    "factions": [
+      "Sisyphe",
+      "Le Rouge"
+    ],
+    "damage_types": [
+      "pierce"
+    ],
+    "sin_affinities": [
+      "envy",
+      "lust",
+      "wrath"
+    ],
+    "primary_sin": "wrath",
+    "keywords": [
+      "bleed",
+      "charge"
+    ],
+    "hp_base": 85,
+    "min_speed": 4,
+    "max_speed": 6,
+    "defense_level": 0,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "ineffective",
+      "blunt": "fatal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/haute-couture-boutique-du-rouge-ishmael.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/haute-couture-boutique-du-rouge-ishmael.webp"
+  },
+  {
+    "id": 188,
+    "slug": "haute-couture-alteration-shop-rodion",
+    "name": "Haute Couture::Alteration Shop Rodion",
+    "name_ko": "오트쿠튀르::수선실 로쟈",
+    "sinner_id": 9,
+    "sinner": "Rodion",
+    "sinner_slug": "rodion",
+    "rarity": 3,
+    "season": 8,
+    "release_date": "2026-09-24",
+    "faction": "Sisyphe",
+    "factions": [
+      "Sisyphe"
+    ],
+    "damage_types": [
+      "slash"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "charge",
+      "tremor"
+    ],
+    "hp_base": 72,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 3,
+    "resistances": {
+      "slash": "ineffective",
+      "pierce": "fatal",
+      "blunt": "normal"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/haute-couture-alteration-shop-rodion.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/haute-couture-alteration-shop-rodion.webp"
+  },
+  {
+    "id": 189,
+    "slug": "haute-couture-le-noir-brand-manager-don-quixote",
+    "name": "Haute Couture::Le Noir Brand Manager Don Quixote",
+    "name_ko": "오트쿠튀르::르누아르 브랜드 매니저 돈키호테",
+    "sinner_id": 3,
+    "sinner": "Don Quixote",
+    "sinner_slug": "don-quixote",
+    "rarity": 3,
+    "season": 8,
+    "release_date": "2026-10-01",
+    "faction": "Sisyphe",
+    "factions": [
+      "Sisyphe",
+      "Le Noir"
+    ],
+    "damage_types": [
+      "blunt"
+    ],
+    "sin_affinities": [
+      "envy",
+      "pride",
+      "sloth"
+    ],
+    "primary_sin": "pride",
+    "keywords": [
+      "charge",
+      "haste",
+      "tremor"
+    ],
+    "hp_base": 88,
+    "min_speed": 4,
+    "max_speed": 7,
+    "defense_level": 4,
+    "resistances": {
+      "slash": "normal",
+      "pierce": "fatal",
+      "blunt": "ineffective"
+    },
+    "image": "https://assets.limbusdeck.com/identities/thumbnail/haute-couture-le-noir-brand-manager-don-quixote.webp",
+    "image_full": "https://assets.limbusdeck.com/identities/full/haute-couture-le-noir-brand-manager-don-quixote.webp"
+  }
+]

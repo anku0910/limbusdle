@@ -1,0 +1,56 @@
+# Project: Limbusdle (Limbus Company Wordle) - 繁體中文鏡像站開發指南
+# Role: 你現在是一位資深的全端工程師（精通 Python 網頁爬蟲與 Vue/React 前端開發）。
+# Task: 請協助我從零到有一步步建立一個基於 Limbusdeck 數據、使用灰機百科翻譯、並重製 Limbus Wordle 玩法的網頁遊戲。
+# Rules: 你是全自動的代理AI，請規劃步驟後全部自動執行
+
+=========================================
+Phase 1: 抓取 Limbusdeck 資料 (Data Extraction)
+=========================================
+目標：從 https://limbusdeck.com/en/database/identities 獲取最原始的英文遊戲資料。
+提示與指示：
+1. Limbusdeck 是一個 SPA (Single Page Application)，直接 request HTML 抓不到資料。
+2. 請撰寫一支 Python 爬蟲（使用 requests, httpx 或 Playwright），觀察該網站載入時的 Network 請求，尋找包含資料庫的 JSON 檔案（可能是靜態 .json 或 API endpoint）。
+3. 如果找不到公開 API，請解析網頁原始碼中的 Next.js / Nuxt.js 初始狀態物件（例如 `<script id="__NEXT_DATA__">`），從中提取出 JSON 資料。
+4. 將提取出的資料清理並儲存為 `en_identities.json`。
+5. 資料結構必須保留：id, name, sinner, rarity, season, faction/world, damage_types, sin_affinities, keywords。
+
+=========================================
+Phase 2: 抓取灰機百科翻譯並建立字典 (Localization & Mapping)
+=========================================
+目標：從 Limbus Company 灰機百科提取官方中文譯名，並將 Phase 1 的英文 JSON 轉換為中文 JSON。
+來源網址：https://limbuscompany.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E4%BA%BA%E6%A0%BC
+提示與指示：
+1. 灰機百科使用 MediaWiki 系統，請優先使用 MediaWiki API (`/api.php?action=query`) 來獲取分類底下的所有頁面資料，這比用 BeautifulSoup 解析 DOM 更穩定。
+2. 抓取每個「人格」與「E.G.O」頁面的 Infobox（資訊框）內容，對照其對應的英文名稱（通常維基頁面上會標註 EN Name）。
+3. 建立一個 `i18n_dict.json`，包含以下映射：
+   - 屬性映射：Slashing(斬擊), Pierce(突刺), Blunt(打擊), Wrath(忿怒), Lust(色慾), Sloth(怠惰), Gluttony(暴食), Gloom(憂鬱), Pride(傲慢), Envy(嫉妒)。
+   - 關鍵字映射：Burn, Bleed, Tremor, Rupture, Sinking, Poise, Charge 等。
+   - 陣營/所屬映射 (Faction)。
+4. 撰寫一支 Node.js 或 Python 腳本，讀取 `en_identities.json`，透過字典替換，輸出最終供前端使用的 `zh_identities.json`。
+5. 轉換邏輯：必須將「稀有度 (Rarity)」(0/00/000 或 ZAYIN~ALEPH) 與「賽季 (Season)」轉換為整數型態 (Integer)，以利後續前端比較大小。
+
+=========================================
+Phase 3: 建立 Limbus Wordle 網站架構 (Frontend Setup)
+=========================================
+目標：復刻 https://limbus-wordle.netlify.app/ 的核心玩法與介面。
+技術棧：Vite + React (或 Vue 3, 依你推薦) + Tailwind CSS
+提示與指示：
+請幫我搭建前端專案並實作以下三大核心模組：
+
+1. 每日種子機制 (Daily Seed Engine)：
+   - 根據使用者的本地時間 (YYYY-MM-DD)，使用偽隨機數生成器 (PRNG) 從 `zh_identities.json` 選出今日的唯一答案。
+   - 實作 `localStorage` 儲存機制，記錄使用者的：當日猜測紀錄 (guesses array)、連勝紀錄 (streak)、遊玩狀態 (gameState)。
+
+2. 屬性比對邏輯 (Wordle Comparison Logic)：
+   請寫一個核心比對函式 `compareGuess(guessId, answerId)`，規則如下：
+   - 嚴格比對 (Sinner, Faction)：一致回傳 🟩 (Green)，不一致回傳 🟥 (Red)。
+   - 數值比對 (Rarity, Season)：一致回傳 🟩 (Green)，猜測值較低回傳 🟥 + 🔼 (Up Arrow)，猜測值較高回傳 🟥 + 🔽 (Down Arrow)。
+   - 陣列交集比對 (Damage Types, Sin Affinities, Keywords)：
+     完全一致回傳 🟩 (Green)。
+     部分交集回傳 🟨 (Yellow)。
+     毫無交集回傳 🟥 (Red)。
+
+3. UI 介面實作 (User Interface)：
+   - 智慧搜尋框 (Search Bar)：支援拼音首字母與中文模糊搜尋，下拉選單顯示頭像與名稱。
+   - 猜測網格 (Guess Grid)：動態渲染每一次的猜測，並根據 `compareGuess` 的結果套用對應的 Tailwind 顏色背景 (bg-green-500, bg-yellow-500, bg-red-500)。
+   - 結算與分享模組 (Share Modal)：遊戲結束後彈出，將結果轉換為 Emoji 矩陣並提供「複製到剪貼簿」功能。

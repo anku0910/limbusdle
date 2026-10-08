@@ -1,0 +1,218 @@
+{
+  "sinner": {
+    "Yi Sang": "李箱",
+    "Faust": "浮士德",
+    "Don Quixote": "堂吉訶德",
+    "Ryoshu": "良秀",
+    "Meursault": "默爾索",
+    "Hong Lu": "鴻璐",
+    "Heathcliff": "希斯克利夫",
+    "Ishmael": "以實瑪利",
+    "Rodion": "羅佳",
+    "Sinclair": "辛克萊",
+    "Outis": "奧提斯",
+    "Gregor": "格里高爾"
+  },
+  "damage_types": {
+    "slash": "斬擊",
+    "pierce": "突刺",
+    "blunt": "打擊"
+  },
+  "sins": {
+    "wrath": "暴怒",
+    "lust": "色慾",
+    "sloth": "怠惰",
+    "gluttony": "暴食",
+    "gloom": "憂鬱",
+    "pride": "傲慢",
+    "envy": "嫉妒"
+  },
+  "keywords": {
+    "burn": "燒傷",
+    "bleed": "流血",
+    "tremor": "震顫",
+    "rupture": "破裂",
+    "sinking": "沉淪",
+    "poise": "呼吸",
+    "charge": "充能",
+    "haste": "迅捷",
+    "offense_down": "攻擊等級降低"
+  },
+  "resistances": {
+    "ineffective": "脆弱",
+    "normal": "一般",
+    "fatal": "致命",
+    "endured": "耐性"
+  },
+  "tags": {
+    "Limbus Company": [
+      "E.G.O裝備",
+      "LCE",
+      "邊獄公司"
+    ],
+    "Fixer": [
+      "收尾人",
+      "Cinq協會"
+    ],
+    "The Pequod": [
+      "裴廓德號"
+    ],
+    "Syndicate": [
+      "幫派",
+      "夜錐組"
+    ],
+    "Technology Liberation Alliance": [
+      "E.G.O裝備",
+      "技術解放聯盟"
+    ],
+    "W Corp.": [
+      "W公司"
+    ],
+    "School of Pointillism": [
+      "手指",
+      "環指",
+      "環指點彩派"
+    ],
+    "Lobotomy Corp. Headquarters": [
+      "E.G.O裝備",
+      "腦葉公司本部"
+    ],
+    "N Corp.": [
+      "E.G.O裝備",
+      "N公司"
+    ],
+    "H Corp.": [
+      "黑獸",
+      "H公司",
+      "黑獸-酉",
+      "黑獸-魁首"
+    ],
+    "The Fingers": [
+      "手指",
+      "中指"
+    ],
+    "Lobotomy Corp. Branch": [
+      "腦葉公司支部",
+      "收尾人"
+    ],
+    "N Corp. Fanatic": [
+      "N公司狂信徒",
+      "N公司"
+    ],
+    "Mechanical Amalgam": [
+      "收尾人",
+      "多裂紋事務所",
+      "機械融合生命體"
+    ],
+    "Heishou Pack": [
+      "黑獸",
+      "H公司",
+      "黑獸-巳"
+    ],
+    "The Middle": [
+      "手指",
+      "蜘蛛巢",
+      "中指",
+      "長‌姊"
+    ],
+    "T Corp.": [
+      "T公司"
+    ],
+    "La Manchaland": [
+      "拉·曼卻領",
+      "三代眷屬",
+      "血魔"
+    ],
+    "Heishou Pack - Wei Branch": [
+      "黑獸",
+      "H公司",
+      "黑獸-未"
+    ],
+    "The Index": [
+      "手指",
+      "蜘蛛巢",
+      "食指"
+    ],
+    "The Backstreets": [
+      "後巷",
+      "幫派",
+      "良·派"
+    ],
+    "R Corp.": [
+      "R公司"
+    ],
+    "The Thumb": [
+      "手指",
+      "蜘蛛巢",
+      "拇指"
+    ],
+    "K Corp.": [
+      "K公司"
+    ],
+    "Wuthering Heights": [
+      "呼嘯山莊",
+      "狂獵",
+      "呼嘯山莊，狂獵"
+    ],
+    "Family Hierarch Candidate": [
+      "家主候選人",
+      "H公司",
+      "賈家"
+    ],
+    "Heishou Pack - You Branch": [
+      "黑獸",
+      "H公司",
+      "黑獸-酉"
+    ],
+    "The House of Spiders": [
+      "蜘蛛巢",
+      "小指"
+    ],
+    "G Corp.": [
+      "G公司",
+      "舊G公司"
+    ],
+    "Edgar Family": [
+      "埃德加家族"
+    ],
+    "School of Corporism": [
+      "手指",
+      "蜘蛛巢",
+      "環指",
+      "人體派",
+      "機械融合生命體",
+      "大‌師"
+    ],
+    "The Ring": [
+      "手指",
+      "講解員",
+      "環指",
+      "野獸派"
+    ],
+    "The Pinky": [
+      "手指",
+      "蜘蛛巢",
+      "小指",
+      "地慧星"
+    ],
+    "S Corp.": [
+      "收尾人",
+      "S公司"
+    ],
+    "Sisyphe": [
+      "黑派",
+      "西西弗"
+    ]
+  },
+  "seasons": {
+    "1": "第1賽季",
+    "2": "第2賽季",
+    "3": "第3賽季",
+    "4": "第4賽季",
+    "5": "第5賽季",
+    "6": "第6賽季",
+    "7": "第7賽季",
+    "8": "第8賽季",
+    "9": "第9賽季"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "title": "Limbusdle",
+  "subtitle": "邊獄猜人格",
+  "tagline": "每天一題，從眾多的人格裡猜出今天的主角。",
+  "rarity": {
+    "1": {
+      "label": "0",
+      "hint": ""
+    },
+    "2": {
+      "label": "00",
+      "hint": ""
+    },
+    "3": {
+      "label": "000",
+      "hint": ""
+    }
+  }
+}

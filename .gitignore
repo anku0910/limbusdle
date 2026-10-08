@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.pyc
+.ruff_cache/
+
+# Raw scrape artifacts: large, regenerable, and only needed while re-running the
+# extractors. The cleaned output in data/ is what the frontend consumes.
+.cache/
+_chunks/
+_chunks2/
+_tabx.json
+
+# Node
+node_modules/
+frontend/dist/
+frontend/vite-preview.log
+frontend/dump.txt
+frontend/shot-*.png
+*.log

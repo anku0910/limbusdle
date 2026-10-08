@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Artwork sits behind the whole app as a fixed layer rather than on the body, so it
+ * never scrolls away and never has to be re-laid-out on resize. The gradient on top
+ * keeps text legible over whatever the image is doing in that region, and
+ * `prefers-reduced-transparency` drops it to a flat wash so the text stays readable.
+ */
+.backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-color: #09090b;
+  background-image: url('/background.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.backdrop::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgb(9 9 11 / 0.82) 0%,
+    rgb(9 9 11 / 0.9) 55%,
+    rgb(9 9 11 / 0.97) 100%
+  );
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  .backdrop::after {
+    background: rgb(9 9 11 / 0.97);
+  }
+}
+
+/*
+ * Passport card: at rest the card is perfectly still; only when the pointer is
+ * over it does the card rock like the huijiwiki personality card. The whole card
+ * moves - never a scale on the portrait - so the picture is never zoomed or
+ * cropped. The tilt stays small enough for the grid gaps to absorb the sweep,
+ * and reduced-motion users get no animation at all.
+ */
+@keyframes passport-sway {
+  0%,
+  100% {
+    transform: translateY(-3px) rotate(-2.5deg);
+  }
+  50% {
+    transform: translateY(-3px) rotate(2.5deg);
+  }
+}
+
+.passport-sway:hover {
+  animation: passport-sway 1.6s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .passport-sway:hover {
+    animation: none;
+  }
+}
