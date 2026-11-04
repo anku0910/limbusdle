@@ -5,7 +5,6 @@ Limbus Company Wordle 玩法的繁體中文鏡像站。
 ## 專案概述
 
 - **前端**：Vite + React + Tailwind CSS，純靜態 SPA，無後端
-- **資料**：Python 爬蟲從 Limbusdeck 與灰機百科抓取，產出中文化資料 JSON
 - **部署**：Cloudflare Pages（推薦）或自有 nginx
 
 ## 快速開始
